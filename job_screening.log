@@ -1,0 +1,330 @@
+2025-04-06 15:56:25,937 - INFO - Job description loaded successfully
+2025-04-06 15:56:25,938 - INFO - Starting processing for CV: C1061.pdf
+2025-04-06 15:56:25,987 - INFO - Summarizing job description
+2025-04-06 15:56:27,526 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-06 15:56:27,539 - INFO - Processing CV: C1061.pdf
+2025-04-06 15:56:29,074 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-06 15:56:29,099 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-04-06 15:56:29,118 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-04-06 15:56:29,140 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-04-06 15:56:29,159 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-04-06 15:56:29,176 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-04-06 15:56:29,188 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-04-06 15:56:29,202 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-04-06 15:56:29,218 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-04-06 15:56:29,233 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-04-06 15:56:29,254 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-04-06 15:56:29,269 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-04-06 15:56:29,286 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-04-06 15:56:29,305 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-04-06 15:56:29,323 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-04-06 15:56:29,337 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-04-06 15:56:29,353 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-04-06 15:56:29,353 - INFO - Match score calculated: 0.6353104759808608
+2025-04-06 15:56:29,358 - INFO - Candidate shortlisted: False (Score: 0.6353104759808608, Threshold: 0.7)
+2025-04-06 15:56:29,364 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-04-06 15:56:29,368 - INFO - Candidate not shortlisted, no interview scheduled
+2025-04-06 15:56:29,369 - INFO - Completed processing for CV: C1061.pdf
+2025-04-06 15:56:29,370 - INFO - Starting processing for CV: C1070.pdf
+2025-04-06 15:56:29,393 - INFO - Summarizing job description
+2025-04-06 15:56:30,295 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-06 15:56:30,300 - INFO - Processing CV: C1070.pdf
+2025-04-06 15:56:31,485 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-06 15:56:31,510 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-04-06 15:56:31,526 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-04-06 15:56:31,546 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-04-06 15:56:31,563 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-04-06 15:56:31,580 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-04-06 15:56:31,593 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-04-06 15:56:31,610 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-04-06 15:56:31,631 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-04-06 15:56:31,652 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-04-06 15:56:31,673 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-04-06 15:56:31,695 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-04-06 15:56:31,711 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-04-06 15:56:31,742 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-04-06 15:56:31,761 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-04-06 15:56:31,778 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-04-06 15:56:31,799 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-04-06 15:56:31,800 - INFO - Match score calculated: 0.7645057832008806
+2025-04-06 15:56:31,811 - INFO - Candidate shortlisted: True (Score: 0.7645057832008806, Threshold: 0.7)
+2025-04-06 15:56:31,815 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-04-06 15:56:31,819 - INFO - Scheduling interview for Scott Saunders (Email: scottsaunders13@gmail.com)
+2025-04-06 15:56:32,489 - INFO - Email sent successfully to scottsaunders13@gmail.com with subject: Interview Request for Scott Saunders
+2025-04-06 15:56:43,147 - INFO - No valid response received from scottsaunders13@gmail.com
+2025-04-06 15:56:43,152 - INFO - Completed processing for CV: C1070.pdf
+2025-04-06 15:56:43,153 - INFO - Starting processing for CV: C1080.pdf
+2025-04-06 15:56:43,202 - INFO - Summarizing job description
+2025-04-06 15:56:44,453 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-06 15:56:44,468 - INFO - Processing CV: C1080.pdf
+2025-04-06 15:56:45,796 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-06 15:56:45,825 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-04-06 15:56:45,839 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-04-06 15:56:45,860 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-04-06 15:56:45,876 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-04-06 15:56:45,894 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-04-06 15:56:45,910 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-04-06 15:56:45,924 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-04-06 15:56:45,939 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-04-06 15:56:45,954 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-04-06 15:56:45,969 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-04-06 15:56:45,985 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-04-06 15:56:46,007 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-04-06 15:56:46,029 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-04-06 15:56:46,046 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-04-06 15:56:46,061 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-04-06 15:56:46,079 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-04-06 15:56:46,080 - INFO - Match score calculated: 0.7792397481462316
+2025-04-06 15:56:46,083 - INFO - Candidate shortlisted: True (Score: 0.7792397481462316, Threshold: 0.7)
+2025-04-06 15:56:46,086 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-04-06 15:56:46,089 - INFO - Scheduling interview for Pamela Kerr (Email: pamelakerr20@gmail.com)
+2025-04-06 15:56:46,977 - INFO - Email sent successfully to pamelakerr20@gmail.com with subject: Interview Request for Pamela Kerr
+2025-04-06 15:56:57,611 - INFO - No valid response received from pamelakerr20@gmail.com
+2025-04-06 15:56:57,622 - INFO - Completed processing for CV: C1080.pdf
+2025-04-06 15:56:57,623 - INFO - Starting processing for CV: C1161.pdf
+2025-04-06 15:56:57,809 - INFO - Summarizing job description
+2025-04-06 15:56:59,055 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-06 15:56:59,061 - INFO - Processing CV: C1161.pdf
+2025-04-06 15:57:00,248 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-06 15:57:00,280 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-04-06 15:57:00,301 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-04-06 15:57:00,318 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-04-06 15:57:00,341 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-04-06 15:57:00,357 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-04-06 15:57:00,375 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-04-06 15:57:00,390 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-04-06 15:57:00,411 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-04-06 15:57:00,431 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-04-06 15:57:00,453 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-04-06 15:57:00,477 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-04-06 15:57:00,497 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-04-06 15:57:00,520 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-04-06 15:57:00,539 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-04-06 15:57:00,556 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-04-06 15:57:00,573 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-04-06 15:57:00,574 - INFO - Match score calculated: 0.6873559834744957
+2025-04-06 15:57:00,577 - INFO - Candidate shortlisted: False (Score: 0.6873559834744957, Threshold: 0.7)
+2025-04-06 15:57:00,582 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-04-06 15:57:00,586 - INFO - Candidate not shortlisted, no interview scheduled
+2025-04-06 15:57:00,589 - INFO - Completed processing for CV: C1161.pdf
+2025-04-06 15:57:00,589 - INFO - Starting processing for CV: C1796.pdf
+2025-04-06 15:57:00,612 - INFO - Summarizing job description
+2025-04-06 15:57:01,526 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-06 15:57:01,531 - INFO - Processing CV: C1796.pdf
+2025-04-06 15:57:02,807 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-06 15:57:02,829 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-04-06 15:57:02,847 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-04-06 15:57:02,869 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-04-06 15:57:02,885 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-04-06 15:57:02,903 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-04-06 15:57:02,920 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-04-06 15:57:02,937 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-04-06 15:57:02,956 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-04-06 15:57:02,973 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-04-06 15:57:02,998 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-04-06 15:57:03,017 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-04-06 15:57:03,032 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-04-06 15:57:03,053 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-04-06 15:57:03,070 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-04-06 15:57:03,091 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-04-06 15:57:03,105 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-04-06 15:57:03,106 - INFO - Match score calculated: 0.5713302798589852
+2025-04-06 15:57:03,109 - INFO - Candidate shortlisted: False (Score: 0.5713302798589852, Threshold: 0.7)
+2025-04-06 15:57:03,113 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-04-06 15:57:03,116 - INFO - Candidate not shortlisted, no interview scheduled
+2025-04-06 15:57:03,118 - INFO - Completed processing for CV: C1796.pdf
+2025-04-06 15:57:03,119 - INFO - Starting processing for CV: C2098.pdf
+2025-04-06 15:57:03,197 - INFO - Summarizing job description
+2025-04-06 15:57:04,111 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-06 15:57:04,115 - INFO - Processing CV: C2098.pdf
+2025-04-06 15:57:05,589 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-06 15:57:05,617 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-04-06 15:57:05,636 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-04-06 15:57:05,659 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-04-06 15:57:05,675 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-04-06 15:57:05,691 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-04-06 15:57:05,704 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-04-06 15:57:05,721 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-04-06 15:57:05,737 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-04-06 15:57:05,759 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-04-06 15:57:05,780 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-04-06 15:57:05,800 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-04-06 15:57:05,818 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-04-06 15:57:05,839 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-04-06 15:57:05,851 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-04-06 15:57:05,868 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-04-06 15:57:05,885 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-04-06 15:57:05,886 - INFO - Match score calculated: 0.6732471213124627
+2025-04-06 15:57:05,890 - INFO - Candidate shortlisted: False (Score: 0.6732471213124627, Threshold: 0.7)
+2025-04-06 15:57:05,896 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-04-06 15:57:05,899 - INFO - Candidate not shortlisted, no interview scheduled
+2025-04-06 15:57:05,901 - INFO - Completed processing for CV: C2098.pdf
+2025-04-06 15:57:05,901 - INFO - Total candidates processed: 6, Shortlisted: 2
+2025-04-06 15:57:05,901 - INFO - Shortlisted candidates:
+2025-04-06 15:57:05,901 - INFO - - C1070.pdf: Scott Saunders (Score: 0.7645057832008806, Slot: 2025-04-15, 10:00 AM, Virtual)
+2025-04-06 15:57:05,901 - INFO - - C1080.pdf: Pamela Kerr (Score: 0.7792397481462316, Slot: 2025-04-15, 10:00 AM, Virtual)
+2025-04-06 16:08:28,467 - INFO - Job description loaded successfully
+2025-04-06 16:08:28,468 - INFO - Starting processing for CV: C1061.pdf
+2025-04-06 16:08:28,489 - INFO - Summarizing job description
+2025-04-06 16:08:30,809 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-06 16:08:30,811 - INFO - Processing CV: C1061.pdf
+2025-04-06 16:08:32,286 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-06 16:08:33,029 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-04-06 16:08:33,043 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-04-06 16:08:33,058 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-04-06 16:08:33,076 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-04-06 16:08:33,090 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-04-06 16:08:33,109 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-04-06 16:08:33,126 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-04-06 16:08:33,153 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-04-06 16:08:33,176 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-04-06 16:08:33,198 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-04-06 16:08:33,219 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-04-06 16:08:33,239 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-04-06 16:08:33,259 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-04-06 16:08:33,275 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-04-06 16:08:33,290 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-04-06 16:08:33,303 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-04-06 16:08:33,303 - INFO - Match score calculated: 0.6353104759808608
+2025-04-06 16:08:33,313 - INFO - Candidate shortlisted: False (Score: 0.6353104759808608, Threshold: 0.7)
+2025-04-06 16:08:33,320 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-04-06 16:08:33,322 - INFO - Candidate not shortlisted, no interview scheduled
+2025-04-06 16:08:33,324 - INFO - Completed processing for CV: C1061.pdf
+2025-04-06 16:08:33,324 - INFO - Starting processing for CV: C1070.pdf
+2025-04-06 16:08:33,351 - INFO - Summarizing job description
+2025-04-06 16:08:34,210 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-06 16:08:34,214 - INFO - Processing CV: C1070.pdf
+2025-04-06 16:08:35,359 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-06 16:08:35,416 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-04-06 16:08:35,430 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-04-06 16:08:35,450 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-04-06 16:08:35,463 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-04-06 16:08:35,478 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-04-06 16:08:35,490 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-04-06 16:08:35,503 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-04-06 16:08:35,528 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-04-06 16:08:35,549 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-04-06 16:08:35,568 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-04-06 16:08:35,582 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-04-06 16:08:35,602 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-04-06 16:08:35,626 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-04-06 16:08:35,640 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-04-06 16:08:35,653 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-04-06 16:08:35,665 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-04-06 16:08:35,666 - INFO - Match score calculated: 0.7645057832008806
+2025-04-06 16:08:35,668 - INFO - Candidate shortlisted: True (Score: 0.7645057832008806, Threshold: 0.7)
+2025-04-06 16:08:35,672 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-04-06 16:08:35,674 - INFO - Scheduling interview for Scott Saunders (Email: scottsaunders13@gmail.com)
+2025-04-06 16:08:36,358 - INFO - Email sent successfully to scottsaunders13@gmail.com with subject: Interview Request for Scott Saunders
+2025-04-06 16:08:47,028 - INFO - No valid response received from scottsaunders13@gmail.com
+2025-04-06 16:08:47,042 - INFO - Completed processing for CV: C1070.pdf
+2025-04-06 16:08:47,042 - INFO - Starting processing for CV: C1080.pdf
+2025-04-06 16:08:47,089 - INFO - Summarizing job description
+2025-04-06 16:08:48,183 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-06 16:08:48,187 - INFO - Processing CV: C1080.pdf
+2025-04-06 16:08:49,452 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-06 16:08:49,469 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-04-06 16:08:49,483 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-04-06 16:08:49,504 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-04-06 16:08:49,518 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-04-06 16:08:49,531 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-04-06 16:08:49,543 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-04-06 16:08:49,561 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-04-06 16:08:49,577 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-04-06 16:08:49,593 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-04-06 16:08:49,612 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-04-06 16:08:49,629 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-04-06 16:08:49,643 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-04-06 16:08:49,657 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-04-06 16:08:49,669 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-04-06 16:08:49,680 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-04-06 16:08:49,704 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-04-06 16:08:49,704 - INFO - Match score calculated: 0.7792397481462316
+2025-04-06 16:08:49,706 - INFO - Candidate shortlisted: True (Score: 0.7792397481462316, Threshold: 0.7)
+2025-04-06 16:08:49,710 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-04-06 16:08:49,713 - INFO - Scheduling interview for Pamela Kerr (Email: pamelakerr20@gmail.com)
+2025-04-06 16:08:50,302 - INFO - Email sent successfully to pamelakerr20@gmail.com with subject: Interview Request for Pamela Kerr
+2025-04-06 16:09:00,937 - INFO - No valid response received from pamelakerr20@gmail.com
+2025-04-06 16:09:00,951 - INFO - Completed processing for CV: C1080.pdf
+2025-04-06 16:09:00,952 - INFO - Starting processing for CV: C1161.pdf
+2025-04-06 16:09:01,027 - INFO - Summarizing job description
+2025-04-06 16:09:02,173 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-06 16:09:02,177 - INFO - Processing CV: C1161.pdf
+2025-04-06 16:09:03,338 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-06 16:09:03,382 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-04-06 16:09:03,400 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-04-06 16:09:03,415 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-04-06 16:09:03,429 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-04-06 16:09:03,443 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-04-06 16:09:03,459 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-04-06 16:09:03,472 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-04-06 16:09:03,487 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-04-06 16:09:03,515 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-04-06 16:09:03,529 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-04-06 16:09:03,544 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-04-06 16:09:03,563 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-04-06 16:09:03,582 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-04-06 16:09:03,596 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-04-06 16:09:03,609 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-04-06 16:09:03,622 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-04-06 16:09:03,622 - INFO - Match score calculated: 0.6873559834744957
+2025-04-06 16:09:03,625 - INFO - Candidate shortlisted: False (Score: 0.6873559834744957, Threshold: 0.7)
+2025-04-06 16:09:03,629 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-04-06 16:09:03,631 - INFO - Candidate not shortlisted, no interview scheduled
+2025-04-06 16:09:03,632 - INFO - Completed processing for CV: C1161.pdf
+2025-04-06 16:09:03,632 - INFO - Starting processing for CV: C1796.pdf
+2025-04-06 16:09:03,654 - INFO - Summarizing job description
+2025-04-06 16:09:04,524 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-06 16:09:04,537 - INFO - Processing CV: C1796.pdf
+2025-04-06 16:09:05,775 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-06 16:09:05,806 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-04-06 16:09:05,832 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-04-06 16:09:05,846 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-04-06 16:09:05,860 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-04-06 16:09:05,877 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-04-06 16:09:05,889 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-04-06 16:09:05,901 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-04-06 16:09:05,913 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-04-06 16:09:05,951 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-04-06 16:09:05,966 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-04-06 16:09:05,990 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-04-06 16:09:06,008 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-04-06 16:09:06,024 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-04-06 16:09:06,036 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-04-06 16:09:06,048 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-04-06 16:09:06,061 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-04-06 16:09:06,061 - INFO - Match score calculated: 0.5713302798589852
+2025-04-06 16:09:06,063 - INFO - Candidate shortlisted: False (Score: 0.5713302798589852, Threshold: 0.7)
+2025-04-06 16:09:06,066 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-04-06 16:09:06,068 - INFO - Candidate not shortlisted, no interview scheduled
+2025-04-06 16:09:06,070 - INFO - Completed processing for CV: C1796.pdf
+2025-04-06 16:09:06,070 - INFO - Starting processing for CV: C2098.pdf
+2025-04-06 16:09:06,140 - INFO - Summarizing job description
+2025-04-06 16:09:06,996 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-06 16:09:07,000 - INFO - Processing CV: C2098.pdf
+2025-04-06 16:09:08,402 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2025-04-06 16:09:08,453 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-04-06 16:09:08,469 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-04-06 16:09:08,482 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-04-06 16:09:08,496 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-04-06 16:09:08,511 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-04-06 16:09:08,527 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-04-06 16:09:08,539 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-04-06 16:09:08,552 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-04-06 16:09:08,569 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-04-06 16:09:08,610 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-04-06 16:09:08,625 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-04-06 16:09:08,638 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-04-06 16:09:08,651 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-04-06 16:09:08,663 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-04-06 16:09:08,676 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-04-06 16:09:08,687 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-04-06 16:09:08,688 - INFO - Match score calculated: 0.6732471213124627
+2025-04-06 16:09:08,690 - INFO - Candidate shortlisted: False (Score: 0.6732471213124627, Threshold: 0.7)
+2025-04-06 16:09:08,694 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-04-06 16:09:08,696 - INFO - Candidate not shortlisted, no interview scheduled
+2025-04-06 16:09:08,698 - INFO - Completed processing for CV: C2098.pdf
+2025-04-06 16:09:08,698 - INFO - Total candidates processed: 6, Shortlisted: 2
+2025-04-06 16:09:08,698 - INFO - Shortlisted candidates:
+2025-04-06 16:09:08,698 - INFO - - C1070.pdf: Scott Saunders (Score: 0.7645057832008806, Slot: 2025-04-15, 10:00 AM, Virtual)
+2025-04-06 16:09:08,698 - INFO - - C1080.pdf: Pamela Kerr (Score: 0.7792397481462316, Slot: 2025-04-15, 10:00 AM, Virtual)
